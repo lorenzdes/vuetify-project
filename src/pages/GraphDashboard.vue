@@ -1,5 +1,8 @@
 <template>
   <app-header />
+  <v-text-field>
+    Dashboard marketing campaign
+  </v-text-field>
   <v-card
     class="mx-auto text-center"
     color="green"
